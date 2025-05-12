@@ -1,0 +1,4 @@
+appName: emiliawebapp
+image: "robertpirvanus/emiliawebapp-portofolio:latest"
+ingressHost: emiliapirvanus.ro
+namespace: default
