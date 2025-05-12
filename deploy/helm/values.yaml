@@ -1,4 +1,4 @@
-appName: emiliawebapp
+appName: emiliawebapp-portofolio
 image: "robertpirvanus/emiliawebapp-portofolio:latest"
 ingressHost: emiliapirvanus.ro
 namespace: default
